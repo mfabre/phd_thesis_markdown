@@ -9,28 +9,40 @@ and add the centred logo
 
     % Delete the following line
     % to remove the UCL header logo
-    \ThisULCornerWallPaper{1.0}{style/univ_logo.eps}
+    \ThisULCornerWallPaper{1.0}{style/MIT_Seal.png}
         
         \vspace*{2.5cm}
         
         \huge
-        This is the title of the thesis
+        International comparison of critically ill patients
         
         \vspace{1.5cm}
         
         \Large
-        Firstname Surname
+        by Maria I. Fabre\\
+        S.B., C.S. M.I.T., 2016
 
         \vspace{1.5cm}
 
         \normalsize
-        A thesis presented for the degree of\\
-        Doctor of Philosophy
+        Submitted to the\\
+        Department of Electrical Engineering and Computer Science\\
+        in Partial Fulfillment of the Requirements for the Degree of\\
+        Master of Engineering in Electrical Engineering and Computer Science\\
+         \\
+        at the\\
+        Massachusetts Institute of Technology\\
+        May 2017\\
+        (C) 2017 Maria I. Fabre. All rights reserved
         
         \vfill
         
         \normalsize
-        Supervised by:\\
+        The author hereby grants to M.I.T. permission to reproduce and to distribute publicly paper and electronic copies of this thesis document in whole and in part in any medium now known or hereafter created.
+        Author:\\
+        <div style="width:200px"><hr/></div>
+
+        \noindent\rule{2cm}{0.4pt}
         Professor Louis Fage\\
         Captain J. Y. Cousteau
 
